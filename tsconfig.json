@@ -14,7 +14,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "image-with-lib-css": [
+        "dist/image-with-lib-css/image-with-lib-css",
+        "dist/image-with-lib-css"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
